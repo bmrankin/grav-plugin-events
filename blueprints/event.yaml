@@ -51,6 +51,10 @@ form:
               type: section
               title: Location
               underline: true
+            header.event.facebook_link:
+              type: text
+              label: Facebook Link
+              help: Paste link to Facebook Event here
             header.event.location:
               type: text
               label: Location
